@@ -348,12 +348,7 @@ GradeLens seeds reproducible academic personas designed to demonstrate distinct 
 
 ---
 
-## 12. Technical Skills & Resume Keywords
 
-`Python 3.12` • `Streamlit` • `PostgreSQL 18` • `Microsoft Power BI` • `DAX` • `SQL Views` • `Pandas` • `Plotly` • `Relational Modeling` • `Deterministic Analytics` • `Academic Intelligence` • `Weakness Attribution` • `pytest` • `Data Pipeline Design` • `Role-Based Access Control`
-
----
-
-## 13. License
+## 12. License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for full details.
