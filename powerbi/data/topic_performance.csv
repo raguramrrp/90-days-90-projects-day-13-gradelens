@@ -1,0 +1,61 @@
+topic_id,topic_name,unit_name,subject_id,subject_name,subject_code,student_id,student_name,questions_attempted,topic_max_marks,topic_marks_obtained,marks_lost,topic_percentage,incorrect_count,partial_count,correct_count,unanswered_count
+top_db_1,Relational Algebra,Unit 1: Relational Modeling,sub_dbms,Database Management Systems,CS702,stu_01,Aarav Sharma,1,10,8.0,2.0,80.0,0,0,1,0
+top_db_1,Relational Algebra,Unit 1: Relational Modeling,sub_dbms,Database Management Systems,CS702,stu_02,Diya Patel,1,10,7.8,2.2,78.0,0,0,1,0
+top_db_1,Relational Algebra,Unit 1: Relational Modeling,sub_dbms,Database Management Systems,CS702,stu_03,Rohan Iyer,1,10,9.2,0.8000000000000007,92.0,0,0,1,0
+top_db_1,Relational Algebra,Unit 1: Relational Modeling,sub_dbms,Database Management Systems,CS702,stu_04,Ananya Sen,1,10,4.2,5.8,42.0,1,0,0,0
+top_db_1,Relational Algebra,Unit 1: Relational Modeling,sub_dbms,Database Management Systems,CS702,stu_05,Vikram Nair,1,10,7.0,3.0,70.0,0,0,1,0
+top_db_1,Relational Algebra,Unit 1: Relational Modeling,sub_dbms,Database Management Systems,CS702,stu_06,Pooja Hegde,1,10,6.5,3.5,65.0,0,0,1,0
+top_db_2,Window Functions & Joins,Unit 2: SQL Advanced,sub_dbms,Database Management Systems,CS702,stu_01,Aarav Sharma,3,35,12.200000000000001,22.8,34.86,0,3,0,0
+top_db_2,Window Functions & Joins,Unit 2: SQL Advanced,sub_dbms,Database Management Systems,CS702,stu_02,Diya Patel,3,35,27.299999999999997,7.700000000000001,78.0,0,0,3,0
+top_db_2,Window Functions & Joins,Unit 2: SQL Advanced,sub_dbms,Database Management Systems,CS702,stu_03,Rohan Iyer,3,35,32.2,2.799999999999999,92.0,0,0,3,0
+top_db_2,Window Functions & Joins,Unit 2: SQL Advanced,sub_dbms,Database Management Systems,CS702,stu_04,Ananya Sen,3,35,14.7,20.299999999999997,42.0,2,1,0,0
+top_db_2,Window Functions & Joins,Unit 2: SQL Advanced,sub_dbms,Database Management Systems,CS702,stu_05,Vikram Nair,3,35,14.0,21.0,40.0,0,0,2,1
+top_db_2,Window Functions & Joins,Unit 2: SQL Advanced,sub_dbms,Database Management Systems,CS702,stu_06,Pooja Hegde,3,35,22.8,12.2,65.14,0,0,3,0
+top_db_3,ACID & Concurrency Control,Unit 3: Transactions,sub_dbms,Database Management Systems,CS702,stu_01,Aarav Sharma,2,20,16.0,4.0,80.0,0,0,2,0
+top_db_3,ACID & Concurrency Control,Unit 3: Transactions,sub_dbms,Database Management Systems,CS702,stu_02,Diya Patel,2,20,15.6,4.4,78.0,0,0,2,0
+top_db_3,ACID & Concurrency Control,Unit 3: Transactions,sub_dbms,Database Management Systems,CS702,stu_03,Rohan Iyer,2,20,18.4,1.6000000000000014,92.0,0,0,2,0
+top_db_3,ACID & Concurrency Control,Unit 3: Transactions,sub_dbms,Database Management Systems,CS702,stu_04,Ananya Sen,2,20,8.4,11.6,42.0,2,0,0,0
+top_db_3,ACID & Concurrency Control,Unit 3: Transactions,sub_dbms,Database Management Systems,CS702,stu_05,Vikram Nair,2,20,14.0,6.0,70.0,0,0,2,0
+top_db_3,ACID & Concurrency Control,Unit 3: Transactions,sub_dbms,Database Management Systems,CS702,stu_06,Pooja Hegde,2,20,13.0,7.0,65.0,0,0,2,0
+top_dsa_1,Binary Search Trees,Unit 1: Trees & Graphs,sub_dsa,Data Structures & Algorithms,CS701,stu_01,Aarav Sharma,2,25,20.0,5.0,80.0,0,0,2,0
+top_dsa_1,Binary Search Trees,Unit 1: Trees & Graphs,sub_dsa,Data Structures & Algorithms,CS701,stu_02,Diya Patel,2,25,19.5,5.500000000000001,78.0,0,0,2,0
+top_dsa_1,Binary Search Trees,Unit 1: Trees & Graphs,sub_dsa,Data Structures & Algorithms,CS701,stu_03,Rohan Iyer,2,25,23.0,2.0,92.0,0,0,2,0
+top_dsa_1,Binary Search Trees,Unit 1: Trees & Graphs,sub_dsa,Data Structures & Algorithms,CS701,stu_04,Ananya Sen,2,25,10.5,14.5,42.0,2,0,0,0
+top_dsa_1,Binary Search Trees,Unit 1: Trees & Graphs,sub_dsa,Data Structures & Algorithms,CS701,stu_05,Vikram Nair,2,25,17.5,7.5,70.0,0,0,2,0
+top_dsa_1,Binary Search Trees,Unit 1: Trees & Graphs,sub_dsa,Data Structures & Algorithms,CS701,stu_06,Pooja Hegde,2,25,16.3,8.7,65.2,0,0,2,0
+top_dsa_2,DP Optimizations,Unit 2: Dynamic Programming,sub_dsa,Data Structures & Algorithms,CS701,stu_01,Aarav Sharma,3,35,12.200000000000001,22.8,34.86,0,3,0,0
+top_dsa_2,DP Optimizations,Unit 2: Dynamic Programming,sub_dsa,Data Structures & Algorithms,CS701,stu_02,Diya Patel,3,35,27.299999999999997,7.700000000000001,78.0,0,0,3,0
+top_dsa_2,DP Optimizations,Unit 2: Dynamic Programming,sub_dsa,Data Structures & Algorithms,CS701,stu_03,Rohan Iyer,3,35,32.2,2.799999999999999,92.0,0,0,3,0
+top_dsa_2,DP Optimizations,Unit 2: Dynamic Programming,sub_dsa,Data Structures & Algorithms,CS701,stu_04,Ananya Sen,3,35,14.7,20.299999999999997,42.0,2,1,0,0
+top_dsa_2,DP Optimizations,Unit 2: Dynamic Programming,sub_dsa,Data Structures & Algorithms,CS701,stu_05,Vikram Nair,3,35,24.5,10.5,70.0,0,0,3,0
+top_dsa_2,DP Optimizations,Unit 2: Dynamic Programming,sub_dsa,Data Structures & Algorithms,CS701,stu_06,Pooja Hegde,3,35,22.8,12.2,65.14,0,0,3,0
+top_dsa_3,Shortest Path & MST,Unit 3: Graph Algorithms,sub_dsa,Data Structures & Algorithms,CS701,stu_01,Aarav Sharma,1,15,12.0,3.0,80.0,0,0,1,0
+top_dsa_3,Shortest Path & MST,Unit 3: Graph Algorithms,sub_dsa,Data Structures & Algorithms,CS701,stu_02,Diya Patel,1,15,11.7,3.3000000000000007,78.0,0,0,1,0
+top_dsa_3,Shortest Path & MST,Unit 3: Graph Algorithms,sub_dsa,Data Structures & Algorithms,CS701,stu_03,Rohan Iyer,1,15,13.8,1.1999999999999993,92.0,0,0,1,0
+top_dsa_3,Shortest Path & MST,Unit 3: Graph Algorithms,sub_dsa,Data Structures & Algorithms,CS701,stu_04,Ananya Sen,1,15,6.3,8.7,42.0,1,0,0,0
+top_dsa_3,Shortest Path & MST,Unit 3: Graph Algorithms,sub_dsa,Data Structures & Algorithms,CS701,stu_05,Vikram Nair,1,15,10.5,4.5,70.0,0,0,1,0
+top_dsa_3,Shortest Path & MST,Unit 3: Graph Algorithms,sub_dsa,Data Structures & Algorithms,CS701,stu_06,Pooja Hegde,1,15,9.8,5.199999999999999,65.33,0,0,1,0
+top_ml_1,Linear & Logistic Regression,Unit 1: Supervised Learning,sub_ml,Machine Learning & Pattern Recognition,AI701,stu_01,Aarav Sharma,3,35,28.0,7.0,80.0,0,0,3,0
+top_ml_1,Linear & Logistic Regression,Unit 1: Supervised Learning,sub_ml,Machine Learning & Pattern Recognition,AI701,stu_02,Diya Patel,3,35,21.5,13.5,61.43,0,2,1,0
+top_ml_1,Linear & Logistic Regression,Unit 1: Supervised Learning,sub_ml,Machine Learning & Pattern Recognition,AI701,stu_03,Rohan Iyer,3,35,32.2,2.799999999999999,92.0,0,0,3,0
+top_ml_1,Linear & Logistic Regression,Unit 1: Supervised Learning,sub_ml,Machine Learning & Pattern Recognition,AI701,stu_04,Ananya Sen,3,35,14.7,20.299999999999997,42.0,3,0,0,0
+top_ml_1,Linear & Logistic Regression,Unit 1: Supervised Learning,sub_ml,Machine Learning & Pattern Recognition,AI701,stu_05,Vikram Nair,3,35,14.0,21.0,40.0,0,0,2,1
+top_ml_1,Linear & Logistic Regression,Unit 1: Supervised Learning,sub_ml,Machine Learning & Pattern Recognition,AI701,stu_06,Pooja Hegde,3,35,22.8,12.2,65.14,0,0,3,0
+top_ml_2,Decision Trees & Random Forests,Unit 2: Tree-based Models,sub_ml,Machine Learning & Pattern Recognition,AI701,stu_01,Aarav Sharma,1,15,12.0,3.0,80.0,0,0,1,0
+top_ml_2,Decision Trees & Random Forests,Unit 2: Tree-based Models,sub_ml,Machine Learning & Pattern Recognition,AI701,stu_02,Diya Patel,1,15,11.7,3.3000000000000007,78.0,0,0,1,0
+top_ml_2,Decision Trees & Random Forests,Unit 2: Tree-based Models,sub_ml,Machine Learning & Pattern Recognition,AI701,stu_03,Rohan Iyer,1,15,13.8,1.1999999999999993,92.0,0,0,1,0
+top_ml_2,Decision Trees & Random Forests,Unit 2: Tree-based Models,sub_ml,Machine Learning & Pattern Recognition,AI701,stu_04,Ananya Sen,1,15,6.3,8.7,42.0,1,0,0,0
+top_ml_2,Decision Trees & Random Forests,Unit 2: Tree-based Models,sub_ml,Machine Learning & Pattern Recognition,AI701,stu_05,Vikram Nair,1,15,10.5,4.5,70.0,0,0,1,0
+top_ml_2,Decision Trees & Random Forests,Unit 2: Tree-based Models,sub_ml,Machine Learning & Pattern Recognition,AI701,stu_06,Pooja Hegde,1,15,9.8,5.199999999999999,65.33,0,0,1,0
+top_os_1,Preemptive Scheduling,Unit 1: CPU Scheduling,sub_os,Operating Systems & Concurrency,CS703,stu_01,Aarav Sharma,1,5,4.0,1.0,80.0,0,0,1,0
+top_os_1,Preemptive Scheduling,Unit 1: CPU Scheduling,sub_os,Operating Systems & Concurrency,CS703,stu_02,Diya Patel,1,5,3.9,1.1,78.0,0,0,1,0
+top_os_1,Preemptive Scheduling,Unit 1: CPU Scheduling,sub_os,Operating Systems & Concurrency,CS703,stu_03,Rohan Iyer,1,5,4.6,0.40000000000000036,92.0,0,0,1,0
+top_os_1,Preemptive Scheduling,Unit 1: CPU Scheduling,sub_os,Operating Systems & Concurrency,CS703,stu_04,Ananya Sen,1,5,2.1,2.9,42.0,0,1,0,0
+top_os_1,Preemptive Scheduling,Unit 1: CPU Scheduling,sub_os,Operating Systems & Concurrency,CS703,stu_05,Vikram Nair,1,5,3.5,1.5,70.0,0,0,1,0
+top_os_1,Preemptive Scheduling,Unit 1: CPU Scheduling,sub_os,Operating Systems & Concurrency,CS703,stu_06,Pooja Hegde,1,5,3.2,1.7999999999999998,64.0,0,0,1,0
+top_os_2,Paging & Segmentation,Unit 2: Memory Management,sub_os,Operating Systems & Concurrency,CS703,stu_01,Aarav Sharma,2,25,20.0,5.0,80.0,0,0,2,0
+top_os_2,Paging & Segmentation,Unit 2: Memory Management,sub_os,Operating Systems & Concurrency,CS703,stu_02,Diya Patel,2,25,19.5,5.500000000000001,78.0,0,0,2,0
+top_os_2,Paging & Segmentation,Unit 2: Memory Management,sub_os,Operating Systems & Concurrency,CS703,stu_03,Rohan Iyer,2,25,23.0,2.0,92.0,0,0,2,0
+top_os_2,Paging & Segmentation,Unit 2: Memory Management,sub_os,Operating Systems & Concurrency,CS703,stu_04,Ananya Sen,2,25,10.5,14.5,42.0,2,0,0,0
+top_os_2,Paging & Segmentation,Unit 2: Memory Management,sub_os,Operating Systems & Concurrency,CS703,stu_05,Vikram Nair,2,25,7.0,18.0,28.0,0,0,1,1
+top_os_2,Paging & Segmentation,Unit 2: Memory Management,sub_os,Operating Systems & Concurrency,CS703,stu_06,Pooja Hegde,2,25,16.3,8.7,65.2,0,0,2,0

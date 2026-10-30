@@ -1,0 +1,5 @@
+class_id,class_name,department,academic_year,subject_id,subject_name,enrolled_students,subject_class_average_pct,students_below_threshold
+cls_ai_a,B.Tech AI & DS - Section A,Artificial Intelligence & Data Science,2023-2027,sub_dbms,Database Management Systems,6,65.48,9
+cls_ai_a,B.Tech AI & DS - Section A,Artificial Intelligence & Data Science,2023-2027,sub_dsa,Data Structures & Algorithms,6,65.48,9
+cls_ai_a,B.Tech AI & DS - Section A,Artificial Intelligence & Data Science,2023-2027,sub_ml,Machine Learning & Pattern Recognition,6,66.64,5
+cls_ai_a,B.Tech AI & DS - Section A,Artificial Intelligence & Data Science,2023-2027,sub_os,Operating Systems & Concurrency,6,66.35,4

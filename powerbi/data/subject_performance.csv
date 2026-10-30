@@ -1,0 +1,25 @@
+subject_id,subject_code,subject_name,department,student_id,student_name,total_assessments,total_max_marks,total_obtained_marks,total_marks_lost,subject_percentage,highest_score_pct,lowest_score_pct
+sub_dbms,CS702,Database Management Systems,Computer Science,stu_01,Aarav Sharma,4,65,36.2,28.8,55.69,80.0,52.8
+sub_dbms,CS702,Database Management Systems,Computer Science,stu_02,Diya Patel,4,65,50.699999999999996,14.300000000000002,78.0,79.8,66.6
+sub_dbms,CS702,Database Management Systems,Computer Science,stu_03,Rohan Iyer,4,65,59.8,5.200000000000001,92.0,92.0,91.99999999999999
+sub_dbms,CS702,Database Management Systems,Computer Science,stu_04,Ananya Sen,4,65,27.3,37.699999999999996,42.0,42.0,41.99999999999999
+sub_dbms,CS702,Database Management Systems,Computer Science,stu_05,Vikram Nair,4,65,35.0,30.0,53.85,70.0,49.0
+sub_dbms,CS702,Database Management Systems,Computer Science,stu_06,Pooja Hegde,4,65,42.300000000000004,22.7,65.08,65.3,64.0
+sub_dsa,CS701,Data Structures & Algorithms,Computer Science,stu_01,Aarav Sharma,4,75,44.2,30.8,58.93,80.0,52.8
+sub_dsa,CS701,Data Structures & Algorithms,Computer Science,stu_02,Diya Patel,4,75,58.5,16.500000000000004,78.0,79.8,66.6
+sub_dsa,CS701,Data Structures & Algorithms,Computer Science,stu_03,Rohan Iyer,4,75,69.0,5.999999999999998,92.0,92.0,91.99999999999999
+sub_dsa,CS701,Data Structures & Algorithms,Computer Science,stu_04,Ananya Sen,4,75,31.5,43.5,42.0,42.0,41.99999999999999
+sub_dsa,CS701,Data Structures & Algorithms,Computer Science,stu_05,Vikram Nair,4,75,52.5,22.5,70.0,70.0,49.0
+sub_dsa,CS701,Data Structures & Algorithms,Computer Science,stu_06,Pooja Hegde,4,75,48.900000000000006,26.099999999999998,65.2,65.3,64.0
+sub_ml,AI701,Machine Learning & Pattern Recognition,Artificial Intelligence,stu_01,Aarav Sharma,3,50,40.0,10.0,80.0,80.0,58.0
+sub_ml,AI701,Machine Learning & Pattern Recognition,Artificial Intelligence,stu_02,Diya Patel,3,50,33.2,16.8,66.4,79.8,66.6
+sub_ml,AI701,Machine Learning & Pattern Recognition,Artificial Intelligence,stu_03,Rohan Iyer,3,50,46.0,3.9999999999999982,92.0,92.0,91.99999999999999
+sub_ml,AI701,Machine Learning & Pattern Recognition,Artificial Intelligence,stu_04,Ananya Sen,3,50,21.0,28.999999999999996,42.0,42.0,41.99999999999999
+sub_ml,AI701,Machine Learning & Pattern Recognition,Artificial Intelligence,stu_05,Vikram Nair,3,50,24.5,25.5,49.0,70.0,49.0
+sub_ml,AI701,Machine Learning & Pattern Recognition,Artificial Intelligence,stu_06,Pooja Hegde,3,50,32.6,17.4,65.2,65.3,64.0
+sub_os,CS703,Operating Systems & Concurrency,Computer Science,stu_01,Aarav Sharma,3,30,24.0,6.0,80.0,80.0,58.0
+sub_os,CS703,Operating Systems & Concurrency,Computer Science,stu_02,Diya Patel,3,30,23.4,6.600000000000001,78.0,79.8,66.6
+sub_os,CS703,Operating Systems & Concurrency,Computer Science,stu_03,Rohan Iyer,3,30,27.6,2.4000000000000004,92.0,92.0,91.99999999999999
+sub_os,CS703,Operating Systems & Concurrency,Computer Science,stu_04,Ananya Sen,3,30,12.6,17.4,42.0,42.0,41.99999999999999
+sub_os,CS703,Operating Systems & Concurrency,Computer Science,stu_05,Vikram Nair,3,30,10.5,19.5,35.0,70.0,49.0
+sub_os,CS703,Operating Systems & Concurrency,Computer Science,stu_06,Pooja Hegde,3,30,19.5,10.5,65.0,65.3,64.0

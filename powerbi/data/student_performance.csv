@@ -1,0 +1,7 @@
+student_id,student_code,student_name,department,academic_year,class_name,total_exams_attempted,total_possible_marks,total_marks_obtained,overall_percentage,average_exam_percentage
+stu_01,STU101,Aarav Sharma,AI & DS,Year 4,B.Tech AI & DS - Section A,4,220,144.4,65.64,64.3
+stu_02,STU102,Diya Patel,AI & DS,Year 4,B.Tech AI & DS - Section A,4,220,165.79999999999998,75.36,73.22
+stu_03,STU103,Rohan Iyer,AI & DS,Year 4,B.Tech AI & DS - Section A,4,220,202.4,92.0,92.0
+stu_04,STU104,Ananya Sen,AI & DS,Year 4,B.Tech AI & DS - Section A,4,220,92.39999999999999,42.0,42.0
+stu_05,STU105,Vikram Nair,AI & DS,Year 4,B.Tech AI & DS - Section A,4,220,122.5,55.68,56.88
+stu_06,STU106,Pooja Hegde,AI & DS,Year 4,B.Tech AI & DS - Section A,4,220,143.3,65.14,64.92
